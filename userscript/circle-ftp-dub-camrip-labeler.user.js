@@ -5,9 +5,9 @@
 // @description  Adds DUB and CAM RIP labels to thumbnails on CircleFTP
 // @author       LaxyDevUserX
 // @match        http://new.circleftp.net/*
-// @downloadURL  https://raw.githubusercontent.com/
-// @updateURL    https://raw.githubusercontent.com/
-// ==/UserScript==
+// @match        http://15.1.1.50/*
+// @downloadURL  https://raw.githubusercontent.com/LazyDevUserX/CircleFTP-Dub-Camrip-Labeler/blob/main/userscript/circle-ftp-dub-camrip-labeler.user.js
+// @updateURL    https://raw.githubusercontent.com/LazyDevUserX/CircleFTP-Dub-Camrip-Labeler/blob/main/userscript/circle-ftp-dub-camrip-labeler.user.js
 // @grant        none
 // ==/UserScript==
 
